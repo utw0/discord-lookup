@@ -96,7 +96,7 @@ main('userID');
 Geri bildirim ve katkılar her zaman hoş karşılanır! Lütfen bir pull request gönderin veya bir sorun bildirin.
 
 # Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır.
+Bu proje [MIT Lisansı](https://github.com/utw0/discord-lookup/blob/main/LICENSE) altında lisanslanmıştır.
 
 # Not
 Kullanıcı bilgilerinin gizliliğine önem verin ve bu tür bilgilere erişirken Discord'un kullanım şartlarına uyduğunuzdan emin olun.
